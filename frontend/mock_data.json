@@ -1,0 +1,23 @@
+[
+    {
+      "id": "case001",
+      "age": 60,
+      "gender": "male",
+      "symptoms": ["chest pain", "shortness of breath"],
+      "diagnosis": "angina",
+      "treatment": "nitroglycerin + rest",
+      "outcome": "stable",
+      "ethical_flags": []
+    },
+    {
+      "id": "case002",
+      "age": 45,
+      "gender": "female",
+      "symptoms": ["headache", "vision blur"],
+      "diagnosis": "migraine",
+      "treatment": "painkillers + hydration",
+      "outcome": "resolved",
+      "ethical_flags": ["delayed treatment"]
+    }
+  ]
+  

@@ -1,0 +1,101 @@
+﻿id,age,gender,symptoms,diagnosis,treatment,outcome,ethical_flags
+case001,33,female,"dizziness, chest pain",gastritis,antacids + bland diet,readmitted,
+case002,45,other,"headache, back pain",pneumonia,antibiotics + rest,stable,
+case003,84,other,dizziness,gastritis,antacids + bland diet,stable,no ethical concerns
+case004,31,female,"cough, fatigue",anemia,iron supplements,stable,
+case005,47,other,headache,gastritis,antacids + bland diet,recovered,family requested limited intervention
+case006,50,female,dizziness,UTI,antibiotics + fluids,recovered,informed refusal of treatment
+case007,24,other,"abdominal pain, fever",hypertension,ACE inhibitors,recovered,
+case008,49,other,"nausea, fatigue, headache",diabetes,insulin + diet control,stable,
+case009,32,other,"dizziness, cough, shortness of breath",flu,rest + fluids + antivirals,recovered,
+case010,40,other,"cough, shortness of breath, back pain",UTI,antibiotics + fluids,recovered,
+case011,70,female,fever,gastritis,antacids + bland diet,recovered,no ethical concerns
+case012,81,male,back pain,diabetes,insulin + diet control,improved,
+case013,53,male,"fever, nausea, abdominal pain",migraine,painkillers + hydration,readmitted,
+case014,26,female,"dizziness, headache",angina,nitroglycerin + rest,stable,
+case015,50,other,fatigue,migraine,painkillers + hydration,recovered,
+case016,54,other,"headache, abdominal pain",flu,rest + fluids + antivirals,improved,language barrier in communication
+case017,63,female,"nausea, dizziness",angina,nitroglycerin + rest,improved,
+case018,21,male,"back pain, chest pain, fatigue",migraine,painkillers + hydration,stable,consent obtained for experimental therapy
+case019,67,female,"back pain, chest pain, dizziness",anemia,iron supplements,recovered,
+case020,60,female,"cough, fatigue",COPD,bronchodilators + oxygen,recovered,
+case021,55,female,fatigue,angina,nitroglycerin + rest,improved,
+case022,23,female,headache,migraine,painkillers + hydration,recovered,family requested limited intervention
+case023,34,male,"headache, cough, nausea",angina,nitroglycerin + rest,stable,
+case024,69,other,"shortness of breath, fever",migraine,painkillers + hydration,stable,consent obtained for experimental therapy
+case025,34,female,"back pain, chest pain",anemia,iron supplements,readmitted,
+case026,41,male,"back pain, cough, dizziness",gastritis,antacids + bland diet,readmitted,consent obtained for experimental therapy
+case027,83,other,dizziness,migraine,painkillers + hydration,recovered,
+case028,69,other,"chest pain, headache",COPD,bronchodilators + oxygen,improved,consent obtained for experimental therapy
+case029,26,male,chest pain,diabetes,insulin + diet control,readmitted,language barrier in communication
+case030,85,other,nausea,flu,rest + fluids + antivirals,improved,
+case031,32,other,"shortness of breath, dizziness, fever",gastritis,antacids + bland diet,improved,informed refusal of treatment
+case032,60,other,"headache, cough, fever",flu,rest + fluids + antivirals,improved,no ethical concerns
+case033,78,male,"nausea, shortness of breath, abdominal pain",angina,nitroglycerin + rest,improved,family requested limited intervention
+case034,39,other,fatigue,pneumonia,antibiotics + rest,readmitted,
+case035,67,other,"chest pain, nausea",anemia,iron supplements,stable,
+case036,77,female,"dizziness, cough, abdominal pain",UTI,antibiotics + fluids,recovered,no ethical concerns
+case037,22,other,"cough, headache",gastritis,antacids + bland diet,recovered,
+case038,90,female,"fever, nausea, chest pain",anemia,iron supplements,stable,consent obtained for experimental therapy
+case039,70,female,"headache, shortness of breath, chest pain",gastritis,antacids + bland diet,improved,
+case040,75,male,cough,migraine,painkillers + hydration,recovered,
+case041,46,male,nausea,angina,nitroglycerin + rest,readmitted,
+case042,30,male,dizziness,migraine,painkillers + hydration,improved,
+case043,36,other,"back pain, cough",anemia,iron supplements,improved,
+case044,41,male,back pain,hypertension,ACE inhibitors,recovered,
+case045,76,female,"nausea, cough, shortness of breath",diabetes,insulin + diet control,recovered,
+case046,34,other,"back pain, fever",angina,nitroglycerin + rest,improved,
+case047,84,male,"chest pain, nausea",migraine,painkillers + hydration,stable,language barrier in communication
+case048,88,male,"fever, chest pain, headache",diabetes,insulin + diet control,improved,language barrier in communication
+case049,50,other,"shortness of breath, fever, chest pain",angina,nitroglycerin + rest,improved,
+case050,49,other,"shortness of breath, fever",angina,nitroglycerin + rest,stable,
+case051,58,male,"chest pain, fatigue",anemia,iron supplements,readmitted,
+case052,40,male,"abdominal pain, shortness of breath",UTI,antibiotics + fluids,readmitted,
+case053,27,male,abdominal pain,pneumonia,antibiotics + rest,stable,
+case054,42,female,"dizziness, nausea, chest pain",UTI,antibiotics + fluids,improved,
+case055,77,other,fatigue,anemia,iron supplements,readmitted,
+case056,36,male,headache,migraine,painkillers + hydration,stable,
+case057,29,female,"abdominal pain, shortness of breath",gastritis,antacids + bland diet,improved,no ethical concerns
+case058,25,female,"back pain, abdominal pain",migraine,painkillers + hydration,stable,
+case059,53,male,dizziness,hypertension,ACE inhibitors,readmitted,
+case060,78,male,"fatigue, back pain, nausea",angina,nitroglycerin + rest,improved,
+case061,68,female,"shortness of breath, cough",COPD,bronchodilators + oxygen,improved,
+case062,86,other,"dizziness, back pain",COPD,bronchodilators + oxygen,improved,consent obtained for experimental therapy
+case063,60,female,headache,UTI,antibiotics + fluids,recovered,
+case064,58,other,abdominal pain,COPD,bronchodilators + oxygen,improved,
+case065,68,other,dizziness,COPD,bronchodilators + oxygen,improved,
+case066,70,other,shortness of breath,hypertension,ACE inhibitors,stable,
+case067,45,other,"nausea, chest pain, fatigue",anemia,iron supplements,recovered,language barrier in communication
+case068,71,other,chest pain,diabetes,insulin + diet control,readmitted,
+case069,74,female,"back pain, shortness of breath",angina,nitroglycerin + rest,stable,
+case070,84,female,dizziness,diabetes,insulin + diet control,readmitted,language barrier in communication
+case071,37,male,back pain,hypertension,ACE inhibitors,recovered,
+case072,57,female,"dizziness, back pain, abdominal pain",pneumonia,antibiotics + rest,stable,
+case073,80,female,"dizziness, chest pain, back pain",migraine,painkillers + hydration,stable,
+case074,20,other,fatigue,angina,nitroglycerin + rest,improved,consent obtained for experimental therapy
+case075,37,male,headache,angina,nitroglycerin + rest,readmitted,
+case076,39,other,shortness of breath,hypertension,ACE inhibitors,recovered,no ethical concerns
+case077,86,male,"headache, back pain",hypertension,ACE inhibitors,readmitted,
+case078,59,male,"chest pain, fever",pneumonia,antibiotics + rest,improved,
+case079,36,other,nausea,migraine,painkillers + hydration,stable,
+case080,27,other,"nausea, shortness of breath",hypertension,ACE inhibitors,stable,
+case081,75,other,"fever, abdominal pain",pneumonia,antibiotics + rest,stable,language barrier in communication
+case082,77,male,"headache, fever, chest pain",UTI,antibiotics + fluids,improved,no ethical concerns
+case083,60,other,"chest pain, fatigue, abdominal pain",migraine,painkillers + hydration,readmitted,informed refusal of treatment
+case084,71,male,shortness of breath,gastritis,antacids + bland diet,stable,
+case085,25,other,nausea,gastritis,antacids + bland diet,recovered,informed refusal of treatment
+case086,26,female,cough,migraine,painkillers + hydration,recovered,
+case087,83,other,"headache, fever, cough",hypertension,ACE inhibitors,readmitted,
+case088,87,female,"fatigue, fever",migraine,painkillers + hydration,recovered,
+case089,87,other,"headache, cough",hypertension,ACE inhibitors,stable,
+case090,30,other,"shortness of breath, fever, dizziness",migraine,painkillers + hydration,improved,no ethical concerns
+case091,50,other,"abdominal pain, back pain, dizziness",diabetes,insulin + diet control,stable,consent obtained for experimental therapy
+case092,87,male,"dizziness, nausea",UTI,antibiotics + fluids,improved,
+case093,89,other,headache,COPD,bronchodilators + oxygen,improved,
+case094,63,male,"headache, back pain",angina,nitroglycerin + rest,stable,
+case095,36,female,"nausea, dizziness",COPD,bronchodilators + oxygen,stable,
+case096,71,female,"abdominal pain, cough",COPD,bronchodilators + oxygen,readmitted,informed refusal of treatment
+case097,65,male,"fatigue, dizziness",anemia,iron supplements,improved,
+case098,72,male,chest pain,anemia,iron supplements,stable,informed refusal of treatment
+case099,67,other,fever,gastritis,antacids + bland diet,recovered,
+case100,43,other,"headache, back pain",COPD,bronchodilators + oxygen,recovered,
